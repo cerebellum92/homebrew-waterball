@@ -2,8 +2,7 @@ cask "waterball" do
   version "0.1.12"
   sha256 "13b39c67958623196a0103b6bd5cb4210baec07d8cd7b8b127bb2398fdd679a2"
 
-  url "https://github.com/cerebellum92/waterball/releases/download/v#{version}/Waterball_v#{version}_macOS.dmg",
-      verified: "github.com/cerebellum92/waterball/"
+  url "https://github.com/cerebellum92/waterball/releases/download/v#{version}/Waterball_v#{version}_macOS.dmg"
   name "Waterball"
   desc "Cross-platform BBS terminal client with live chat and UAO support"
   homepage "https://github.com/cerebellum92/waterball"
