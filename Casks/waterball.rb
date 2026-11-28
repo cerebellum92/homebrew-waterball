@@ -1,6 +1,6 @@
 cask "waterball" do
   version "0.1.13"
-  sha256 "d3f6c4a092e124d950bdb494c575e54b5f058b35eefc19151e2862fbd64793df"
+  sha256 "e75de493c463b4d70a5985b6301cfd317dc4a3e35af8e71f522ae7f77435a8e1"
 
   url "https://github.com/cerebellum92/waterball/releases/download/v#{version}/Waterball_v#{version}_macOS.dmg"
   name "Waterball"
